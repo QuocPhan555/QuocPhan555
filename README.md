@@ -15,7 +15,7 @@ I use SQL, R and Python to turn messy business data into clear decisions, with a
 
 - Actuarial Analyst: Aon, Hungary
 - B2B Account Management: Vietnam
-- Two research papers in health economics
+
 
 ## Focus areas
 
