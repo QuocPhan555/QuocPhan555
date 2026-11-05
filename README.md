@@ -1,6 +1,6 @@
 <img src="banner.png" alt="Phan Thanh Anh Quoc – Data Analyst" width="100%">
 
-I use SQL, R and Python to turn messy business data into clear decisions, with a focus on econometrics, pricing and customer analytics. MSc in Advanced Applied Economics, Université de Caen Normandie (Eiffel Scholarship).
+I use SQL, R and Python to analyze data into business solution, with a focus on applied econometrics and customer analytics. MSc in Advanced Applied Economics, Université de Caen Normandie (Eiffel Scholarship). 
 
 ## What I work with
 
@@ -14,8 +14,7 @@ I use SQL, R and Python to turn messy business data into clear decisions, with a
 ## Experience
 
 - Actuarial Analyst: Aon, Hungary
-- B2B Account Management: Vietnam
-
+- B2B Account Management: Aon, Vietnam & INNIO, Hungary
 
 ## Focus areas
 
