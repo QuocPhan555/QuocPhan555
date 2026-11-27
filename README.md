@@ -21,7 +21,6 @@ I use SQL, R and Python to analyze data into business solution, with a focus on 
 - Sales and pricing analytics
 - Customer retention and funnel analysis
 - Applied econometrics and causal inference
-- Financial risk modelling
 
 ## Projects
 
